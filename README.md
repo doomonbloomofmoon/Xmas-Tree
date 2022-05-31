@@ -1,3 +1,4 @@
+![Alt-текст](https://github.com/Roads-To-The-Doors/Xmas-Tree/blob/master/X-sTree.ico)
 # Рождественская ель
 ## Суть
 Программа выводит ель из звездочек с введенным количеством строк.
